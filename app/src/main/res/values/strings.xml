@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Proyek 1 arya karza</string>
+    <string name="nama">Arya Karza</string>
+    <string name="nim">232010052</string>
+    <string name="fakultas">Pendidikan MIPA dan Teknologi</string>
+    <string-array name="prodi">
+        <item>Pendidikan Matematika</item>
+        <item>Pendidikan Fisika</item>
+        <item>Pendidikan Teknologi</item>
+        <item>Pendidikan Biologi</item>
+    </string-array>
+
+    <string name="pertama">ini adalah desain pertama di Android</string>
+    <string name="pesan">Tuliskan pesan anda disini</string>
+    <string name="bPertama">Tekan</string>
+    <string name="bKedua">Lepas</string>
+    <string name="cb1">Pilihan 1</string>
+    <string name="cb2">Pilihan 2</string>
+    <string name="jk1">laki-laki</string>
+    <string name="jk2">Perempuan</string>
+    <!--Bagian LinearLayout 2-->
+    <string name="kepada">Kepada</string>
+    <string name="subyek">Subyek</string>
+    <string name="isi">Isi Pesan</string>
+    <string name="kirim">Kirim</string>
+    <string name="copyright">Created by Arya Karza \n IKIP PGRI PONTIANAK</string>
+    <string name="username">Masukkan Nama Anda</string>
+</resources>

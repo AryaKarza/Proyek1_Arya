@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/a10</item>
+        <item>@drawable/a11</item>
+        <item>@drawable/a13</item>
+    </array>
+    <array name="colours">
+        <item>@color/merah</item>
+        <item>@color/hijaugreentea</item>
+        <item>@color/aqua</item>
+    </array>
+        <array name="iconBaru">
+            <item>@drawable/a100</item>
+            <item>@drawable/a200</item>
+            <item>@drawable/a300</item>
+        </array>
+</resources>
